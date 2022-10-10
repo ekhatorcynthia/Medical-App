@@ -1,0 +1,8 @@
+﻿Your symptoms matches the following high temperature, fever, sweet and chills, headaches, vomiting, muscles pains, body pains, diarrhea, nausea, anemia, sore mouth, cannot eat( You have MALARIA but please confirm from the laboratory (POSITIVE or NEGATIVE to continue).
+
+symptoms matches the following diarrhea, vomiting, heart beat fast, dry mouth, thirst, muscle cramps, restlessness, unable to sleep, tiredness, fever, rectal pain, low urine, serve vomiting, loss of weight( You have CHOLERA but please confirm from the laboratory (POSITIVE (P) or NEGATIVE (N)) to continue.
+
+Malaria medication (Artemether Lumefantrine OR Dihydroartemisinin Piperaquine)
+
+Cholera medication (Tetracycline OR cholamphenicol)  
+

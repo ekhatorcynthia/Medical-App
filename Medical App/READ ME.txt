@@ -1,0 +1,8 @@
+﻿1. Install python IDLE 3.8
+2. Open Medical.py
+3. Run Medical.py
+4. Enjoy Hospital Management system
+5. To Open Pharmacy.py
+6. Enjoy Pharmacy Management system
+
+
